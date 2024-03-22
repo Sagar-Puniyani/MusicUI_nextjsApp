@@ -14,6 +14,8 @@ const config: Config = {
   theme: {
     extend: {
       animation: {
+        scroll:
+        "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
         spotlight: "spotlight 2s ease .75s 1 forwards",
       },
 
