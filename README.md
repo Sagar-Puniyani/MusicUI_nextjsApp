@@ -32,4 +32,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Deploy on Vercel
 
 The App is Deployed on the vercel 
-[text](https://music-ui-nextjs-app.vercel.app/)
+[Music UI App](https://music-ui-nextjs-app.vercel.app/)
